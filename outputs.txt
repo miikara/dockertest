@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                        PORTS     NAMES
+b50a436a3787   nginx     "/docker-entrypoint.…"   44 seconds ago   Up 43 seconds                 80/tcp    nostalgic_haibt
+f9f5b4752770   nginx     "/docker-entrypoint.…"   58 seconds ago   Exited (127) 57 seconds ago             objective_mahavira
+3ba5166c33d2   nginx     "/docker-entrypoint.…"   7 minutes ago    Exited (0) 5 minutes ago                zen_turing
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMESREPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
